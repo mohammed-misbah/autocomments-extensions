@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "LinkedIn Local AI Commenter",
+  "name": "AI Commenter",
   "version": "1.0",
 
   "permissions": [
