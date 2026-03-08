@@ -1,6 +1,5 @@
 let activeEditor = null;
 
-/* Track focused editor */
 document.addEventListener("focusin", function (e) {
   if (
     e.target &&
